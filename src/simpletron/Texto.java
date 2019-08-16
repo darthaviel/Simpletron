@@ -194,7 +194,7 @@ public class Texto {
     }
 
     public void ciao() {
-        System.out.println("MAY THE FORCE DE WITH YOU");
+        System.out.println("MAY THE FORCE BE WITH YOU");
     }
     
     public void ejecutando(){
@@ -218,7 +218,7 @@ public class Texto {
     }
     
     public void noHayPrograma(){
-        System.out.println("No hay prograa guradado");
+        System.out.println("No hay programa guradado");
     }
 
 }
